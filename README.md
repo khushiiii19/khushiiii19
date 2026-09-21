@@ -40,12 +40,11 @@ Built an end-to-end CI/CD pipeline that automates application validation, contai
 ## ☁️ Areas of Interest
 
 - DevOps & Cloud Engineering
-- CI/CD Automation
+- CI/CD & Automation
 - Kubernetes & Containerization
 - Infrastructure as Code
 - Cloud Infrastructure
-- Automation & Reliability
-- SRE Practices
+- Site Reliability Engineering
 
 ## 📚 Currently Building
 
