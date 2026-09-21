@@ -49,9 +49,9 @@ Built an end-to-end CI/CD pipeline that automates application validation, contai
 
 ## 📚 Currently Building
 
-- Advanced Kubernetes knowledge
+- Kubernetes administration and deployment
 - Cloud infrastructure automation
-- CI/CD pipeline design
+- CI/CD pipeline design and automation
 - Linux and Bash scripting
 - Python automation
 - Site Reliability Engineering practices
