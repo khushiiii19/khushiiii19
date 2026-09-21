@@ -6,12 +6,12 @@ I work with cloud infrastructure, CI/CD, containerization, and automation, with 
 
 ## 🛠️ Tech Stack
 
-**Cloud:** Azure, AWS
-**Infrastructure as Code:** Terraform  
-**Containers & Orchestration:** Docker, Kubernetes, AKS, EKS 
-**CI/CD:** Jenkins, Azure DevOps  
-**Programming & Scripting:** Python, Bash  
-**Databases:** PostgreSQL, SQL  
+**Cloud:** Azure, AWS<br/>
+**Infrastructure as Code:** Terraform<br/>
+**Containers & Orchestration:** Docker, Kubernetes, AKS, EKS<br/>
+**CI/CD:** Jenkins, Azure DevOps<br/>
+**Programming & Scripting:** Python, Bash<br/>
+**Databases:** PostgreSQL, SQL<br/>
 **Tools:** Git, GitHub, Helm, Linux
 
 ## 🚀 Featured Project
